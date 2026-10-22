@@ -1,6 +1,6 @@
 {
   "name": "margin-obsidian",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "private": true,
   "description": "Margin AI Proofreader for Obsidian: an AI second pass after Harper. Generated from github.com/phoenixak/margin.",
   "license": "MIT",
