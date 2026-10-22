@@ -4,7 +4,7 @@ An AI second pass for [Harper](https://writewithharper.com) in Obsidian: purple 
 
 ## Install
 
-From Obsidian: Settings → Community plugins → Browse → search "Margin Proofreader". Also install **Harper**.
+From Obsidian: Settings → Community plugins → Browse → search "Margin AI Proofreader". Also install **Harper**.
 
 Manual: download `main.js`, `manifest.json` and `styles.css` from the latest release into `<vault>/.obsidian/plugins/margin-ai-proofreader/`.
 
